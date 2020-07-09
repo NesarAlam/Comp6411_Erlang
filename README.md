@@ -10,10 +10,10 @@ You will, of course, need a list of a group of friends and the contact messages 
 {john, [jill,joe,bob]}.
 
 
-{jill, [bob,joe,bob]}.\n
+{jill, [bob,joe,bob]}.
 
 
-{sue, [jill,jill,jill,bob,jill]}.\n
+{sue, [jill,jill,jill,bob,jill]}.
 
 {bob, [john]}.
 
